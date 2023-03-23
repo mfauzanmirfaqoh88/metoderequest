@@ -1,0 +1,5 @@
+<?php
+//variable super global
+
+var_dump($_SERVER);
+?>
